@@ -4,7 +4,7 @@
 </br>
 ![Profile views](https://gpvc.arturio.dev/Vedrine)
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -19,6 +19,12 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 </p>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ### &#x1f4c8; Github Stats
 
