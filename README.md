@@ -23,11 +23,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MessageHut/message-hut-app/pull/1) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-2. 🎉 Merged PR [#8](https://github.com/Vedrine/Vuejs-To-do-app/pull/8) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
-3. 🎉 Merged PR [#9](https://github.com/Vedrine/Vuejs-To-do-app/pull/9) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
-4. 🎉 Merged PR [#6](https://github.com/Vedrine/Vuejs-To-do-app/pull/6) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
-5. 🎉 Merged PR [#7](https://github.com/Vedrine/Vuejs-To-do-app/pull/7) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
+1. 💪 Opened PR [#2](https://github.com/MessageHut/message-hut-app/pull/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+2. 💪 Opened PR [#1](https://github.com/MessageHut/message-hut-app/pull/1) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+3. 🎉 Merged PR [#8](https://github.com/Vedrine/Vuejs-To-do-app/pull/8) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
+4. 🎉 Merged PR [#9](https://github.com/Vedrine/Vuejs-To-do-app/pull/9) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
+5. 🎉 Merged PR [#6](https://github.com/Vedrine/Vuejs-To-do-app/pull/6) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
 <!--END_SECTION:activity-->
 
 
