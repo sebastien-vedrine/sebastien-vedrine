@@ -25,9 +25,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/MessageHut/message-hut-app/issues/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
 2. 🗣 Commented on [#2](https://github.com/MessageHut/message-hut-app/issues/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-3. 💪 Opened PR [#2](https://github.com/MessageHut/message-hut-app/pull/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-4. 💪 Opened PR [#1](https://github.com/MessageHut/message-hut-app/pull/1) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-5. 🎉 Merged PR [#8](https://github.com/Vedrine/Vuejs-To-do-app/pull/8) in [Vedrine/Vuejs-To-do-app](https://github.com/Vedrine/Vuejs-To-do-app)
+3. 🗣 Commented on [#2](https://github.com/MessageHut/message-hut-app/issues/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+4. 💪 Opened PR [#2](https://github.com/MessageHut/message-hut-app/pull/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+5. 💪 Opened PR [#1](https://github.com/MessageHut/message-hut-app/pull/1) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
 <!--END_SECTION:activity-->
 
 
