@@ -23,10 +23,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MessageHut/message-hut-app/pull/8) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-2. 🎉 Merged PR [#3](https://github.com/MessageHut/message-hut-app/pull/3) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-3. 🎉 Merged PR [#2](https://github.com/MessageHut/message-hut-app/pull/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-4. 🗣 Commented on [#2](https://github.com/MessageHut/message-hut-app/issues/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+1. 🎉 Merged PR [#38](https://github.com/MessageHut/message-hut-app/pull/38) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+2. 🎉 Merged PR [#46](https://github.com/MessageHut/message-hut-app/pull/46) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+3. 🎉 Merged PR [#47](https://github.com/MessageHut/message-hut-app/pull/47) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+4. 🎉 Merged PR [#8](https://github.com/MessageHut/message-hut-app/pull/8) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
 5. 🗣 Commented on [#2](https://github.com/MessageHut/message-hut-app/issues/2) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
 <!--END_SECTION:activity-->
 
