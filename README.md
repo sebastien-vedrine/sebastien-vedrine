@@ -23,11 +23,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/MessageHut/message-hut-app/pull/48) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-2. 🎉 Merged PR [#38](https://github.com/MessageHut/message-hut-app/pull/38) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-3. 🎉 Merged PR [#46](https://github.com/MessageHut/message-hut-app/pull/46) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-4. 🎉 Merged PR [#47](https://github.com/MessageHut/message-hut-app/pull/47) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-5. 🎉 Merged PR [#8](https://github.com/MessageHut/message-hut-app/pull/8) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+1. 💪 Opened PR [#364](https://github.com/aimeos/aimeos-laravel/pull/364) in [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel)
+2. 🎉 Merged PR [#48](https://github.com/MessageHut/message-hut-app/pull/48) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+3. 🎉 Merged PR [#38](https://github.com/MessageHut/message-hut-app/pull/38) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+4. 🎉 Merged PR [#46](https://github.com/MessageHut/message-hut-app/pull/46) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+5. 🎉 Merged PR [#47](https://github.com/MessageHut/message-hut-app/pull/47) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
 <!--END_SECTION:activity-->
 
 
