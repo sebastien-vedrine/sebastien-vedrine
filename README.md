@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#220](https://github.com/aimeos/aimeos-core/issues/220) in [aimeos/aimeos-core](https://github.com/aimeos/aimeos-core)
-2. 🗣 Commented on [#364](https://github.com/aimeos/aimeos-laravel/issues/364) in [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel)
-3. 💪 Opened PR [#216](https://github.com/aimeos/aimeos-core/pull/216) in [aimeos/aimeos-core](https://github.com/aimeos/aimeos-core)
-4. 🎉 Merged PR [#84](https://github.com/MessageHut/message-hut-app/pull/84) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
-5. 🗣 Commented on [#84](https://github.com/MessageHut/message-hut-app/issues/84) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
+1. 💪 Opened PR [#31](https://github.com/aimeoscom/ai-payments/pull/31) in [aimeoscom/ai-payments](https://github.com/aimeoscom/ai-payments)
+2. ❗️ Opened issue [#220](https://github.com/aimeos/aimeos-core/issues/220) in [aimeos/aimeos-core](https://github.com/aimeos/aimeos-core)
+3. 🗣 Commented on [#364](https://github.com/aimeos/aimeos-laravel/issues/364) in [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel)
+4. 💪 Opened PR [#216](https://github.com/aimeos/aimeos-core/pull/216) in [aimeos/aimeos-core](https://github.com/aimeos/aimeos-core)
+5. 🎉 Merged PR [#84](https://github.com/MessageHut/message-hut-app/pull/84) in [MessageHut/message-hut-app](https://github.com/MessageHut/message-hut-app)
 <!--END_SECTION:activity-->
 
 
