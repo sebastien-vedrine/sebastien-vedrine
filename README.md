@@ -29,9 +29,9 @@
 ### &#x1f4c8; Github Stats
 
 <a href="">
-  <img align="center" src="https://github-readme-stats-git-master.vedrine.vercel.app/api/top-langs/?username=vedrine" />
+  <img align="center" src="https://github-readme-stats-git-master.vedrine.vercel.app/api/top-langs/?username=sebastien-vedrine" />
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats-git-master.vedrine.vercel.app/api?username=vedrine&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Sébastien VÉDRINE's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-master.vedrine.vercel.app/api?username=sebastien-vedrine&show_icons=true&line_height=27&count_private=true&theme=vue" alt="Sébastien VÉDRINE's GitHub Stats" />
 </a>
