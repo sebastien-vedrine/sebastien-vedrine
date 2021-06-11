@@ -19,10 +19,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9626](https://github.com/quasarframework/quasar/issues/9626) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-2. ❗️ Opened issue [#9626](https://github.com/quasarframework/quasar/issues/9626) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
-3. 💪 Opened PR [#37322](https://github.com/laravel/framework/pull/37322) in [laravel/framework](https://github.com/laravel/framework)
-4. 💪 Opened PR [#31](https://github.com/aimeoscom/ai-payments/pull/31) in [aimeoscom/ai-payments](https://github.com/aimeoscom/ai-payments)
-5. ❗️ Opened issue [#220](https://github.com/aimeos/aimeos-core/issues/220) in [aimeos/aimeos-core](https://github.com/aimeos/aimeos-core)
+2. 🗣 Commented on [#9626](https://github.com/quasarframework/quasar/issues/9626) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
+3. ❗️ Opened issue [#9626](https://github.com/quasarframework/quasar/issues/9626) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
+4. 💪 Opened PR [#37322](https://github.com/laravel/framework/pull/37322) in [laravel/framework](https://github.com/laravel/framework)
+5. 💪 Opened PR [#31](https://github.com/aimeoscom/ai-payments/pull/31) in [aimeoscom/ai-payments](https://github.com/aimeoscom/ai-payments)
 <!--END_SECTION:activity-->
 
 
