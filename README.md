@@ -2,7 +2,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B0?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/sebastien-vedrine/)
 </br>
-![Profile views](https://gpvc.arturio.dev/Vedrine)
 
 ### 🔧 Technologies & Tools
 
